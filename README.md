@@ -1,0 +1,2 @@
+# gibbsmotif
+Gibbs Motif Sampler
